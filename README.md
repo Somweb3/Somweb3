@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Somweb3
-- 👀 I’m interested in decentralised app development based on blockchain.
-- 🌱 I’m currently learning solidity, javascript, hardhat, html, css.
+- 👀 I’m a Blockchain Deverloper.
+- 🌱 I’m currently learning full Dapp and NFT development.
 - 💞️ I’m looking to collaborate on some blockchain development project.

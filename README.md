@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Somweb3
-- 👀 I’m a Blockchain Deverloper.
-- 🌱 I’m currently learning full Dapp and NFT development.
-- 💞️ I’m looking to collaborate on some blockchain development project.
+- 👋 Hi, I’m Somnath.
+- 👀 I’m a Cybersecurity Enthusiast and a blockchain developer.
+- 🌱 I’m currently pursuing M.Tech in Information Security.
+- 💞️ I’m looking to collaborate with some Cybersecurity projects.
